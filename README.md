@@ -21,6 +21,6 @@ Programming language was : Java.
 Each word taken from the Quran Text file was matched by index with the information parts taken from corpus.quran.com. There were no OCR (Optical Charecter Recognition) or high level algorithms used. There has been found mismatch only at sura no. 37, ayah no. 130 (with programming approach). Here إِلْ يَاسِينَ are two words separated by a space in Quran Text, But regarded as a single word in corpus.quran.com website. As, changing one of them will be regarded as breaking license agreement, this problem has been left unsolved. And it will be revised again, only when any one of the source makes an update to the words.
 
 Required libraries for building for your own:
-javax.swing
-jsoup
-javazoom
+javax.swing,
+jsoup and
+javazoom.
