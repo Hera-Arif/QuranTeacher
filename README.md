@@ -24,3 +24,5 @@ Required libraries for building for your own:
 javax.swing,
 jsoup and
 javazoom.
+
+<b>Some files can be found corrupted (excluding ".java" files). In this case extract the .jar found in the releases and replace the corrupted files with the files in the extracted .jar. </b>
